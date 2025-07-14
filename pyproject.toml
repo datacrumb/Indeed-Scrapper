@@ -1,0 +1,13 @@
+[project]
+name = "indeed-scrapper"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "feedparser>=6.0.11",
+    "gspread>=6.2.1",
+    "playwright>=1.53.0",
+    "python-dotenv>=1.1.1",
+    "requests>=2.32.4",
+]
